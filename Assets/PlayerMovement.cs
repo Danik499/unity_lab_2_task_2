@@ -17,7 +17,6 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        transform.Translate(new Vector3(-1, 0, 0) * 5f * Time.deltaTime);
-
+        
     }
 }

@@ -335,8 +335,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 579368817}
-  power: 4
-  direction: {x: -1, y: -2, z: 0}
+  power: 10
+  direction: {x: -3, y: -2, z: 1}
 --- !u!1 &669721559
 GameObject:
   m_ObjectHideFlags: 0
